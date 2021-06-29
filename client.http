@@ -1,0 +1,21 @@
+POST http://localhost:8081/register
+Content-Type: application/x-www-form-urlencoded
+
+name=Test
+&uri=http://localhost:8082
+&redirect_success=http://localhost:8082/auth-success
+&redirect_error=http://localhost:8082/auth-error
+
+###
+GET http://localhost:8081/auth?response_type=code&client_id=client_6070546c6aba63.16480463&scope=basic&state=zaclenakvcneakonve
+
+###
+GET http://localhost:8081/auth-Oui?client_id=client_6070546c6aba63.16480463&state=zaclenakvcneakonve
+
+###
+GET http://localhost:8081/token?grant_type=authorization_code&client_id=client_6070546c6aba63.16480463&client_secret=38201ad253c323a79d9108f4588bbc62d2e1a5c6&code=60a2a11327070
+
+###
+GET http://localhost:8081/token?grant_type=password&client_id=client_6070546c6aba63.16480463&client_secret=38201ad253c323a79d9108f4588bbc62d2e1a5c6&username=60a2a11327070&password=60a2a11327070
+###
+GET http://localhost:8081/token?grant_type=client_credentials&client_id=client_6070546c6aba63.16480463&client_secret=38201ad253c323a79d9108f4588bbc62d2e1a5c6

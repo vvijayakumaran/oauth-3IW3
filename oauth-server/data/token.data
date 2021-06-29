@@ -1,0 +1,11 @@
+a:3:{s:5:"token";s:13:"60706fef079eb";s:7:"user_id";s:13:"60706fef09bda";s:9:"expiredIn";O:17:"DateTimeImmutable":3:{s:4:"date";s:26:"2021-04-10 15:17:03.031219";s:13:"timezone_type";i:3;s:8:"timezone";s:3:"UTC";}}
+a:3:{s:5:"token";s:13:"6070705398664";s:7:"user_id";s:13:"60707053993f9";s:9:"expiredIn";O:17:"DateTimeImmutable":3:{s:4:"date";s:26:"2021-04-10 15:18:43.624235";s:13:"timezone_type";i:3;s:8:"timezone";s:3:"UTC";}}
+a:3:{s:5:"token";s:13:"60707098623cd";s:7:"user_id";s:13:"607070986313b";s:9:"expiredIn";O:17:"DateTimeImmutable":3:{s:4:"date";s:26:"2021-04-10 15:19:52.402388";s:13:"timezone_type";i:3;s:8:"timezone";s:3:"UTC";}}
+a:3:{s:5:"token";s:13:"6070716e92c8e";s:7:"user_id";s:13:"6070716e99055";s:9:"expiredIn";O:17:"DateTimeImmutable":3:{s:4:"date";s:26:"2021-04-10 15:23:26.601241";s:13:"timezone_type";i:3;s:8:"timezone";s:3:"UTC";}}
+a:3:{s:5:"token";s:13:"60a2a12504bec";s:7:"user_id";s:13:"60a2a12504bda";s:9:"expiredIn";O:17:"DateTimeImmutable":3:{s:4:"date";s:26:"2021-05-18 17:00:21.019450";s:13:"timezone_type";i:3;s:8:"timezone";s:3:"UTC";}}
+a:3:{s:5:"token";s:13:"60a2a147cabc8";s:7:"user_id";s:13:"60a2a147cabb0";s:9:"expiredIn";O:17:"DateTimeImmutable":3:{s:4:"date";s:26:"2021-05-18 17:00:55.830473";s:13:"timezone_type";i:3;s:8:"timezone";s:3:"UTC";}}
+a:3:{s:5:"token";s:13:"60a2a1647c2dd";s:7:"user_id";N;s:9:"expiredIn";O:17:"DateTimeImmutable":3:{s:4:"date";s:26:"2021-05-18 17:01:24.508676";s:13:"timezone_type";i:3;s:8:"timezone";s:3:"UTC";}}
+a:3:{s:5:"token";s:13:"60a2b7bebead7";s:7:"user_id";s:13:"60a2b7bebeac7";s:9:"expiredIn";O:17:"DateTimeImmutable":3:{s:4:"date";s:26:"2021-05-18 18:36:46.781029";s:13:"timezone_type";i:3;s:8:"timezone";s:3:"UTC";}}
+a:3:{s:5:"token";s:13:"60a2b7cfd29e2";s:7:"user_id";s:13:"60a2b7cfd29d3";s:9:"expiredIn";O:17:"DateTimeImmutable":3:{s:4:"date";s:26:"2021-05-18 18:37:03.862728";s:13:"timezone_type";i:3;s:8:"timezone";s:3:"UTC";}}
+a:3:{s:5:"token";s:13:"60a5310faef9f";s:7:"user_id";s:13:"60a5310faef94";s:9:"expiredIn";O:17:"DateTimeImmutable":3:{s:4:"date";s:26:"2021-05-20 15:38:55.716713";s:13:"timezone_type";i:3;s:8:"timezone";s:3:"UTC";}}
+a:3:{s:5:"token";s:13:"60a5311a0a8fd";s:7:"user_id";s:13:"60a5311a0a8ef";s:9:"expiredIn";O:17:"DateTimeImmutable":3:{s:4:"date";s:26:"2021-05-20 15:39:06.043284";s:13:"timezone_type";i:3;s:8:"timezone";s:3:"UTC";}}
